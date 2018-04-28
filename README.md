@@ -4,8 +4,12 @@ Implementes micro clearfix, as per: http://nicolasgallagher.com/micro-clearfix-h
 
 ## Installation
 
-The recommended installation method is a [bower](http://bower.io).
+The recommended installation method is a [npm](https://www.npmjs.com/).
 
 ```shell
-bower install --save classy-clearfix
+npm install --save-dev classy-clearfix
 ```
+
+## License
+
+Licensed under the [MIT license](http://mit-license.org/vitalk).
